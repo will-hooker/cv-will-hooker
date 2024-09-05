@@ -1,5 +1,5 @@
 ---
-title: William Coulter Hooker
+title: Andrea Sanchez Pinochet
 author: T7 010 Veterinary Research Tower, Cornell University, Ithaca, NY 14853
 date: wch79@cornell.edu | (914) 318-0699
 output: github_document
