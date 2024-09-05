@@ -83,3 +83,60 @@ knitr::opts_chunk$set(echo = TRUE)
   + Laboratory session: consult the teaching collections of the Paleontological Research Institute and Cornell University Museum of Vertebrates, exhibits at the Museum of the Earth, and personal fossil collection to pull appropriate fossil and Recent vertebrate material for comparative anatomical study 
   + Discussion session: design lecture content, small-group breakout session activities, and discussion board prompts to reinforce course content from the two 50-minute lecture sessions and explore concepts in detail, such as the effects of large-scale Earth system processes, mass extinctions, and the evolution of terrestrial plants/insects on vertebrate diversity 
 * Organize and co-host an intercollegiate field trip to the Late Devonian Catskill Formation of northcentral PA to expose students to a site of active vertebrate paleontological research and strengthen fundamental field geology skills 
+
+## BioEE 2740 – The Vertebrates: Comparative Anatomy, Function, Paleontology, and Evolution
+
+**Teaching Assistant, Department of Ecology and Evolutionary Biology** (January 2023 – May 2023)
+
+* Taught weekly 3-hour laboratory session using specimens from the teaching collections of the Cornell University Museum of Vertebrates and Paleontological Research Institute to help students understand the origin, anatomy, physiology, paleontology, and evolution of vertebrates
+
+## BioEE 4940-003 – Evolution of Dinosaurs
+
+**Course Developer and Leader, Department of Ecology and Evolutionary Biology** (August 2022 – October 2022)
+
+* Developed and co-led “Evolution of Dinosaurs” (BioEE 4940-003) as a special topics course in ecology and evolutionary biology with William Bemis 
+* Led weekly 50-minute discussion sessions about chapters in Stephen Brusatte’s *The Rise and Fall of the Dinosaurs* (2018) as well as relevant, recent primary literature 
+
+***
+
+# **Volunteer Experience**
+
+## Paleontological Research Institution (PRI)
+
+**Fossil Preparator, Fossil Preparation Lab** (March 2023 – Present)
+
+* Develop fossil preparation skills (air abrasion, air scribes, consolidation, jacketing) by restoring the cranium of a †*Megacerops* (Perissodactyla, †Brontotheriidae) specimen (PRI ACC 1880) from the Oligocene of Hat Creek, Wyoming for future research projects 
+* Build science communication skills by identifying fossils for Museum of the Earth visitors weekly during Fossil ID Days (Saturdays, 10:00am – 5:00pm) and educating the public about the paleontological and geological history of the Finger Lakes region
+
+**Field Trip Assistant** (May 2023 – Present)
+
+* Assist with running PRI- and Cornell University-led field trips to various paleontological and geological sites of interest throughout western and central NY State to engage both the public in hands-on science and teach fundamental field geology skills 
+  + PRI Fossil Collecting Trip near Hamilton, NY (SU2024) 
+  + Cornell University “Paleobiology” course (BioEE/EAS 4790) field trip (SP2024)  
+  + Cornell University “Vertebrate Paleontology” course (BioEE/EAS 4795) field trip (FA2023) 
+  + PRI Fossil Collecting Trip near Hamilton, NY (SU2023) 
+  + Cornell University “Paleobiology” course (BioEE/EAS 4790) field trip (SP2023) 
+  
+**Exhibit Curator of "Science in Your Backyard: The Fossils of Salmon Creek"** (August 2024)
+
+* Researched, designed, and curated a special exhibition for the Museum of the Earth (on display from August 2024 to January 2025) featuring specimens from my fossil collection and original artworks
+
+***
+
+# **Professional Memberships**
+* New York Paleontological Society (February 2024 – Present)
+* The Paleontological Society (November 2022 – Present) 
+* Society of Vertebrate Paleontology (November 2020 – Present) 
+* Geological Society of America (November 2020 – Present) 
+
+# **Activities and Societies**
+
+## Pangea Club at Cornell (PCC), Cornell University
+
+**Founder and President** (September 2021 – May 2024)
+
+* Mission: to disseminate knowledge related to Earth and atmospheric sciences, such as, but not limited to, the structure and history of the Earth, as well as to explore local geological phenomena that has shaped, and continues to shape, Ithaca and the greater Finger Lakes region through frequent field trips and guest lectures 
+* Organized and led weekly field trips to various paleontological and geological sites of interest throughout western and central NY State to engage PCC members in hands-on science and teach fundamental field geology skills
+* Managed the PCC Instagram (https://www.instagram.com/cornellpangea/), including advertising upcoming events and developing science communication content to educate followers about Silurian and Devonian fossils found during PCC field trips via weekly #fossilfriday posts 
+* Co-hosted and organized Bio Night, a biology-themed trivia night held at the end of each semester, with Varsity Botany Club, Fantastic Fungi Fanatics, Snodgrass and Wigglesworth, American Fisheries Society, The Cornell Herpetological Society, Birding Club at Cornell, and The Wildlife Society 
+* Current membership (as of May 2024): 320
